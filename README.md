@@ -1,5 +1,5 @@
 # Web_Projects
-My personal Web projects/ Личните ми проекти на Java
+My personal Web projects/ Личните ми уеб проекти
 
 Here I will be uploading my personal web projects, the IDE I am using is VS Code.
 For each project will be uploaded an archive containing the project and a readme file with explanatons.
